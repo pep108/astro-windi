@@ -1,7 +1,7 @@
 {
   "name": "astro-windi",
   "description": "Windi CSS + Astro Integrations",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "types": "./dist/index.d.ts",
   "author": "pep108",
@@ -14,7 +14,8 @@
     "astro-integration",
     "astro-component",
     "css",
-    "ui"
+    "ui",
+    "windicss"
   ],
   "bugs": "https://github.com/pep108/astro-windi/issues",
   "homepage": "https://github.com/pep108/astro-windi/",
